@@ -121,7 +121,5 @@ visits = [
 ]
 # print(department_patient_count(visits))
 
-print(sorted([1,2,3,45,654,34,23312]))
-print(any(s))
-print(all(s))'''
+
 
